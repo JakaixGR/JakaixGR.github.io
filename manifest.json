@@ -1,0 +1,16 @@
+{
+  "name": "GB_Studio Blog",
+  "short_name": "GB_Studio's github blog",
+  "theme_color": "#010411",
+  "background_color": "#0a1b2f",
+  "display": "standalone",
+  "start_url": "./index.html",
+  "icons": [
+    {
+      "src": "../img/favicon.ico",
+      "sizes": "128x128",
+      "type": "image/ico"
+    }
+  ],
+  "splash_pages": null
+}
